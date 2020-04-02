@@ -1,0 +1,9 @@
+[TODO]
+  [YouTube Data Api]
+  1. Get list of playlist.
+  2. Get 10 videos of each playlist.
+  3. Get 10 most recent videos from all playlist for HomeScreen.
+
+
+  * Find out how to use etag for cache optimization.
+  * Can't order api result. So Channel order has to set order options.
